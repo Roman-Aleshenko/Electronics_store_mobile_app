@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791817638295",
+    "project_id": "electronic-goods-store",
+    "storage_bucket": "electronic-goods-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791817638295:android:8183ad355c3adf115f74d2",
+        "android_client_info": {
+          "package_name": "com.example.electronicsstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnhVtTyUiYkRoVY9xzlKoTTEBT4ssa4a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
